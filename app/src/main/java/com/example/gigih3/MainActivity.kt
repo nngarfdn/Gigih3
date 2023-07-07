@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         with(binding){
-
+            txt2.gone()
         }
 
     }
